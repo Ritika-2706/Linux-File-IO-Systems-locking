@@ -38,7 +38,7 @@ exit(0);}
 ```
 # OUTPUT:
 ```
-
+-rwxr-xr-x 1 root root 18348 Apr 25 09:20 file.o
 
 
 ```
@@ -87,7 +87,7 @@ return 0;
 ## OUTPUT
 ```
 
-
+-rwxr-xr-x 1 root root 18376 Apr 25 09:36 text.o
 
 ```
 
@@ -96,5 +96,4 @@ The programs are executed successfully.
 
 
 
-# RESULT:
-The programs are executed successfully.
+
